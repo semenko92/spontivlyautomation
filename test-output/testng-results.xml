@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43890" started-at="2020-04-13T09:16:34 EEST" finished-at="2020-04-13T09:17:17 EEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43890" started-at="2020-04-13T09:16:34 EEST" finished-at="2020-04-13T09:17:17 EEST">
+      <class name="spontivlytests.UpdateScreenTest">
+        <test-method status="PASS" signature="ButtonsTest()[pri:0, instance:spontivlytests.UpdateScreenTest@4d41cee]" name="ButtonsTest" duration-ms="11155" started-at="2020-04-13T09:16:34 EEST" finished-at="2020-04-13T09:16:45 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonsTest -->
+        <test-method status="PASS" signature="ButtonsTest2()[pri:0, instance:spontivlytests.UpdateScreenTest@4d41cee]" name="ButtonsTest2" duration-ms="24123" started-at="2020-04-13T09:16:45 EEST" finished-at="2020-04-13T09:17:09 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonsTest2 -->
+        <test-method status="PASS" signature="ButtonsTest4()[pri:0, instance:spontivlytests.UpdateScreenTest@4d41cee]" name="ButtonsTest4" duration-ms="8583" started-at="2020-04-13T09:17:09 EEST" finished-at="2020-04-13T09:17:17 EEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ButtonsTest4 -->
+      </class> <!-- spontivlytests.UpdateScreenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
